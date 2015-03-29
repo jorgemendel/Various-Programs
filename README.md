@@ -7,3 +7,5 @@ FileLoader.py contains an iterable class that loads files with an increasing num
        print file_object.read()
        
 FileLoader(filenames, extension, begin, finish)  
+
+Maybe you will find it useful.
